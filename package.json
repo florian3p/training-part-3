@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "typescript": "^4.6.2"
-  }
+  },
+  "name": "training-part-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florian3p/training-part-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florian3p/training-part-3/issues"
+  },
+  "homepage": "https://github.com/florian3p/training-part-3#readme",
+  "description": ""
 }
